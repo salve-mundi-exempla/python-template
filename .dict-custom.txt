@@ -1,8 +1,12 @@
 CODEOWNERS
+CodeQL
 Config
+Dependabot
+LFS
 MERCHANTABILITY
 NONINFRINGEMENT
 README
+Sponsorships
 aspell
 exempla
 gh
@@ -17,6 +21,7 @@ markdown
 md
 mundi
 proselint
+rebase
 src
 sublicense
 svg
