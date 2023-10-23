@@ -5,6 +5,7 @@
 [![json workflow](https://github.com/salve-mundi-exempla/python-template/actions/workflows/json.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/python-template/actions/workflows/json.yml)
 [![link check workflow](https://github.com/salve-mundi-exempla/python-template/actions/workflows/links.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/python-template/actions/workflows/links.yml)
 [![markdown workflow](https://github.com/salve-mundi-exempla/python-template/actions/workflows/markdown.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/python-template/actions/workflows/markdown.yml)
+[![misspell workflow](https://github.com/salve-mundi-exempla/python-template/actions/workflows/misspell.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/python-template/actions/workflows/misspell.yml)
 [![proselint workflow](https://github.com/salve-mundi-exempla/python-template/actions/workflows/proselint.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/python-template/actions/workflows/proselint.yml)
 [![spellcheck workflow](https://github.com/salve-mundi-exempla/python-template/actions/workflows/spellcheck.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/python-template/actions/workflows/spellcheck.yml)
 [![woke workflow](https://github.com/salve-mundi-exempla/python-template/actions/workflows/woke.yml/badge.svg?branch=main)](https://github.com/salve-mundi-exempla/python-template/actions/workflows/woke.yml)
