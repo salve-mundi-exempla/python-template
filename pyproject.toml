@@ -1,0 +1,19 @@
+[project]
+name = "salve-mundi"
+version = "0.1.0"
+description = "Example Python Hello World Project"
+authors = [
+    {name = "Victor Payno", email = "vpayno@users.noreply.github.com"},
+]
+dependencies = []
+requires-python = ">=3.12"
+readme = "README.md"
+license = {text = "MIT"}
+
+
+[tool.pdm]
+package-type = "library"
+
+[build-system]
+requires = ["pdm-backend"]
+build-backend = "pdm.backend"
