@@ -19,6 +19,9 @@ package-type = "library"
 [tool.pdm.scripts]
 main = { call = "salve_mundi:main" }
 module = { shell = "python -m salve_mundi" }
+lint = "ruff ."
+test = "pytest"
+full = { composite = ["lint", "test"] }
 
 [project.script]
 salve_mundi = "salve_mundi.main:main"
