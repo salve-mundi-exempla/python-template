@@ -1,1 +1,1 @@
-print("runnable module entry point")
+print("Entrypoint when running module: python -m salve_mundi")
